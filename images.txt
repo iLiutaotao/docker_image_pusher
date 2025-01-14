@@ -1,6 +1,1 @@
-nginx
-#支持私库
-https://hub.docker.com/jxxghp/moviepilot-v2:latest
-itaotao/moviepilot-v2:latest
-#支持指定架构
---platform=linux/arm64 itaotao/moviepilot-v2
+jxxghp/moviepilot-v2:latest
